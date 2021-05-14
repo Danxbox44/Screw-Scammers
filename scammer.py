@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python
 import requests
 import os
 import random
